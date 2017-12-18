@@ -15,13 +15,13 @@ linkedin:
 
 ### Project
 -   My project has two major parts:
-1.	Phenotypic and molecular characterization of zebrafish mobility mutant lines which were recovered in the first and third Tübingen ENU screen (Granato et al., 1996) and were not previously characterized.
+1.	Phenotypic and molecular characterization of zebrafish mobility mutant lines which were recovered in the first and third Tübingen ENU screen (Granato et al., 1996) and were not previously characterized
 
-2.	Studying RNA editing in skeletal muscle during development.
+2.	Studying RNA editing in skeletal muscle during development
 
 ### Supervisor
 -   [Uwe Strähle](https://www.itg.kit.edu/straehle.php) 
 ### Secondments
 -   Feb-March 2017- Karolinska Institute, Sweden
 ### Keywords
--   Genetics, bioinformatics, zebrafish, developmental biology.
+-   Genetics, bioinformatics, zebrafish, developmental biology
